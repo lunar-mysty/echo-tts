@@ -20,7 +20,7 @@ You are responsible for complying with local laws regarding biometric data and v
 pip install -r requirements.txt
 ```
 
-Requires Python 3.10+ and a CUDA-capable GPU with at least 8GB VRAM.
+Requires Python ==3.10 and a CUDA-capable GPU with at least 8GB VRAM.
 
 ## Quick Start
 
